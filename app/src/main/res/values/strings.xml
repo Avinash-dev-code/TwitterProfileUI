@@ -1,0 +1,25 @@
+<!DOCTYPE resources [
+
+]>
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="background">background</string>
+    <string name="Google">Google</string>
+    <string name="google">google</string>
+    <string name="heygoogle">&#35;HeyGoogle</string>
+    <string name="following">Following</string>
+    <string name="tweets">Tweets&#38;replies</string>
+    <string name="tweets1">Tweets</string>
+    <string name="media">Media</string>
+    <string name="_212">212</string>
+    <string name="links">Links</string>
+    <string name="_21_6m">21.6M</string>
+    <string name="followings">Following</string>
+    <string name="followers">Followers</string>
+    <string name="retweets">Retweets</string>
+    <string name="likes">Likes</string>
+    <string name="_233789">233789</string>
+    <string name="south_africa_has_the_world_s_highest_recorded_youth_unemployment_rate_using_google_tools_allan_van_der_muelen_and_the_zltorewards_team_are_working_to_change_that_here_s_how_they_re_helping_young_people_gain_work_experience_through_volunteering">South Africa has the world’s highest recorded youth unemployment rate. Using Google tools, Allan van der Muelen and the @ZltoRewards team are working to change that. Here\'s how they\'re helping young people gain work experience through volunteering →</string>
+    <string name="bhu">bhu</string>
+
+</resources>
